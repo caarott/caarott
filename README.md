@@ -35,7 +35,7 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marchewaaa524&show_icons=true&theme=dracula" height="170"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchewaaa524&hide=lua&theme=dracula" height="120"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marchewaaa524&show_icons=true&theme=dracula" height="150"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchewaaa524&hide=lua&theme=dracula" height="110"/>
 
 ###
