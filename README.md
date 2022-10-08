@@ -40,3 +40,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/marchewaaa/marchewaaa/blob/output/snake.svg" alt="Snake animation" />
+
+###
