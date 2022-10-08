@@ -19,13 +19,14 @@
 
 <div align="center">
   <img src="./img/javascript.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="./img/nodejs.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="./img/cplusplus.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="./img/mongodb.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="./img/vscode.svg" height="40" width="52" alt="svg logo"  />
+  <img src="./img/intellijidea.svg" height="40" width="52" alt="intellijidea logo"  />
+  <img src="./img/webstorm.svg" height="40" width="52" alt="webstorm logo"  />
+  <img src="./img/mongodb.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 
 ###
