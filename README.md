@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/marchewaaa524/marchewaaa524/blob/output/github-contribution-grid-snake.gif)
-
-###
