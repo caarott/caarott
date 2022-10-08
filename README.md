@@ -35,8 +35,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=marchewaaa524" height="140" alt="stats graph"/><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=marchewaaa524" height="140" alt="languages graph"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marchewaaa524" alt="JAHSIKXD" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marchewaaa524&show_icons=true&theme=dracula" height="170"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchewaaa524&hide=lua&theme=dracula"/>
 
 ###
