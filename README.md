@@ -6,8 +6,8 @@
 
 ###
 
-<div align="left">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/> <b><p>marchewaaa#2529</p></b>
+<div align="center">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/> <b><p align="center">marchewaaa#2529</p></b>
   </a>
 </div>
 
