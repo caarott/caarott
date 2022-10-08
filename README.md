@@ -36,6 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marchewaaa/marchewaaa/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marchewaaa524/marchewaaa524/blob/output/snake.svg" alt="Snake animation" />
 
 ###
