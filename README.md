@@ -16,9 +16,8 @@
 <h2 align="center">⚒ Languages and tools</h2>
 
 ###
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
 <div align="center">
-  <img src="./img/nodejs.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs"  />
   <img src="./img/cplusplus.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
 <div align="center">
