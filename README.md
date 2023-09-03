@@ -18,7 +18,6 @@
 ###
 
 <div align="center">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
   <img src="./img/nodejs.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="./img/cplusplus.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
