@@ -18,6 +18,7 @@
 ###
 
 <div align="center">
+  [JavaScript](https://icons8.com/icon/108784/javascript)
   <img src="./img/nodejs.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="./img/cplusplus.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
