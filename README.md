@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/> <b><p align="center">marchewaaa#2529</p></b>
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/> <b><p align="center">caarott</p></b>
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="./img/javascript.svg" height="40" width="52" alt="javascript logo"  />
+  ![JavaScript](https://icons8.com/icon/108784/javascript)
   <img src="./img/nodejs.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="./img/cplusplus.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
