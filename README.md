@@ -35,7 +35,15 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caarott&show_icons=true&theme=dracula" height="150"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caarott&hide=lua&theme=dracula" height="110"/>
+  <details>
+    <summary>📈 My Github Statistics</summary>
+    <p >
+        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=caarott&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
+        <br>
+        <img alt = "GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=caarott&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
+        <br>
+        <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caarott&hide=html,&hide_border=true&show_icons=true&theme=dark&title_color=cb1aad&text_color=fff"
+    </p>
+  </details>
 
 ###
