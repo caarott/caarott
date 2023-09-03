@@ -24,7 +24,7 @@
   <img src="./img/vscode.svg" height="40" width="52" alt="svg logo"  />
   <img src="./img/intellijidea.svg" height="40" width="52" alt="intellijidea logo"  />
   <img src="./img/webstorm.svg" height="40" width="52" alt="webstorm logo"  />
-  <img src="./img/mongodb.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40" alt="mongodb"  />
 </div>
 
 <br><br>
