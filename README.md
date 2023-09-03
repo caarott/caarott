@@ -29,13 +29,8 @@
   <img src="./img/mongodb.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 
-###
-
-<h2 align="center">📊 Github Statistics</h2>
-
-###
-
-  <details>
+<br><br>
+<details>
     <summary>📈 My Github Statistics</summary>
     <p >
         <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=caarott&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=cb1aad&text_color=fff&show_icons=true&theme=dark">
